@@ -1,11 +1,8 @@
-# Spring Cloud Microservices Architecture
+# Project Overview
+This repository contains the hands-on project developed during the "Master Microservices with Spring, Docker, Kubernetes" course on Udemy. The project demonstrates modern microservices architecture patterns and best practices using industry-standard technologies.
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2023.0.3-blue.svg)](https://spring.io/projects/spring-cloud)
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-A comprehensive **Spring Boot microservices architecture** implementing a modern banking system with enterprise-grade patterns, complete observability, and cloud-native deployment capabilities.
+## 📚 Course Reference
+This project is based on the comprehensive Udemy course: [![Master Microservices with Spring, Docker, Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/?couponCode=MT260825A)]
 
 ## 🏗️ Architecture Overview
 
@@ -192,26 +189,3 @@ spring-cloud-microservices/
 └── kubernetes/         # K8s service discovery
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Related Resources
-
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Spring Cloud Documentation](https://spring.io/projects/spring-cloud)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-- [OpenTelemetry Documentation](https://opentelemetry.io/docs/)
-- [Resilience4j Documentation](https://resilience4j.readme.io/)
-
----
-
-**Built with ❤️ using Spring Boot and Cloud-Native patterns**
