@@ -1,4 +1,4 @@
-# EazyBank Microservices Architecture
+# Spring Cloud Microservices Architecture
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2023.0.3-blue.svg)](https://spring.io/projects/spring-cloud)
