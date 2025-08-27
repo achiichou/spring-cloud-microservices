@@ -2,7 +2,7 @@
 This repository contains the hands-on project developed during the "Master Microservices with Spring, Docker, Kubernetes" course on Udemy. The project demonstrates modern microservices architecture patterns and best practices using industry-standard technologies.
 
 ## 📚 Course Reference
-This project is based on the comprehensive Udemy course: [![Master Microservices with Spring, Docker, Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/?couponCode=MT260825A)]
+This project is based on the comprehensive Udemy course: [Master Microservices with Spring, Docker, Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/?couponCode=MT260825A)
 
 ## 🏗️ Architecture Overview
 
